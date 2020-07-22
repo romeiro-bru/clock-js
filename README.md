@@ -3,7 +3,7 @@
 </p>
 <br/>
 
-## JAVASCRIPT exercise #02
+* JAVASCRIPT exercise #02
 
 ## Features :mag:
 
