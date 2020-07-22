@@ -7,7 +7,7 @@
 
 ## Features :mag:
 
-* Check what time it is :hourglass_flowing_sand:
+* JavaScript Clock :hourglass_flowing_sand:
 
 ## Technologies :octocat:
 * JavaScript :sparkles:
