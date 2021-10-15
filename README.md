@@ -3,11 +3,6 @@
 </p>
 <br/>
 
-* JAVASCRIPT exercise #02
-
-## Features :mag:
-
-* JavaScript Clock :hourglass_flowing_sand:
 
 ## Technologies :octocat:
 * JavaScript :sparkles:
